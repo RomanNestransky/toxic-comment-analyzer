@@ -1,6 +1,10 @@
-data/
+# ======= System =======
 .ipynb_checkpoints/
 __pycache__/
 *.pyc
+
+# ======= Data =======
+data/
+models/
 *.csv
 *.zip
